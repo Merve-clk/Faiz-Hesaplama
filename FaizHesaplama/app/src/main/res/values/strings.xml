@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Faiz Hesaplama</string>
+    <string name="kdv_hesaplayıcı">kdv hesaplayıcı</string>
+    <string name="Veri_Giriniz">Veri Giriniz</string>
+    <string name="kdv_oran_giriniz">kdv oranı giriniz</string>
+    <string name="Veri_Giriniz_">Veri Giriniz</string>
+    <string name="Hesapla">Hesapla</string>
+</resources>
